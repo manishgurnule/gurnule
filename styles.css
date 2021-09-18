@@ -1,0 +1,91 @@
+body{
+     margin:0;
+     text-align:center;
+     background-color:#E4F9F5;
+     font-family: 'Merriweather', serif;
+}
+
+    
+
+h1{
+   margin:0;
+   font-family: 'Sacramento', cursive;
+   color:#66BFBF;
+   font-size:60px;
+}
+ h2{
+ font-family: 'Pacifico', cursive;
+ color:#66BFBF;
+ }
+ h3{
+    color:#66BFBF;
+ }
+ 
+ 
+.top-container{
+    margin-top:50px;
+     margin-left:px;
+     position:relative;
+ }
+ .top-cloud{
+   position:relative;
+   bottom:20px;
+   
+   left:70px;
+   
+ }
+ .bottom-cloud{
+   position:relative;
+   right:150px;
+ }
+ .mountain{
+   padding-left:2px;
+ }
+ .profile-photo{
+    padding-top:50px;
+    width:100px;
+    height:100px;
+ }
+ .stock-market{
+     width:200px;
+     height:200px;
+ }
+ .cooking{
+    width:200px;
+    height:200px;
+ }
+.middle-container{
+
+ }
+ 
+ .btn {
+ background: #3498db;
+ background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+ background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+ background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+ background-image: -o-linear-gradient(top, #3498db, #2980b9);
+ background-image: linear-gradient(to bottom, #3498db, #2980b9);
+ -webkit-border-radius: 28;
+ -moz-border-radius: 28;
+ border-radius: 28px;
+ font-family: Arial;
+ color: #ffffff;
+ font-size: 15px;
+ bg-start-gradient-hover: ;
+ bg-end-gradient-hover: #3498db;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+ 
+ }
+ 
+ .btn:hover {
+ text-decoration: none;
+ }
+ .bottom-container{
+    padding-top:60px;
+    
+ }
+.a{
+   margin:50px;
+
+}
