@@ -39,6 +39,7 @@ h1{
    right:150px;
  }
  .mountain{
+   width:100px;
    padding-left:2px;
  }
  .profile-photo{
@@ -46,7 +47,7 @@ h1{
     width:100px;
     height:100px;
  }
- .stock-market{
+ .stock-market{.
      width:200px;
      height:200px;
  }
