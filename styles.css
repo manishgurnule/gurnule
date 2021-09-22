@@ -11,7 +11,7 @@ h1{
    margin:0;
    font-family: 'Sacramento', cursive;
    color:#66BFBF;
-   font-size:60px;
+   font-size:90px;
 }
  h2{
  font-family: 'Pacifico', cursive;
@@ -45,8 +45,8 @@ h1{
  }
  .profile-photo{
     padding-top:50px;
-    width:150px;
-    height:150px;
+    width:250px;
+    height:250px;
  }
  .stock-market{
      width:400px;
