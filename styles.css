@@ -58,6 +58,10 @@ h1{
 .middle-container{
 
  }
+.hr{
+    border:dotted red 6px;
+
+    }
  
  .btn {
  background: #3498db;
