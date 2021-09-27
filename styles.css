@@ -1,5 +1,4 @@
 body{
-    
      text-align:center;
      font-family: 'Merriweather', serif;
 }
@@ -43,7 +42,8 @@ h1{
    padding-left:2px;
  }
  .profile-photo{
-    padding-top:50px;
+    padding-top:70px;
+    padding-bottom:50px;
     width:250px;
     height:250px;
  }
